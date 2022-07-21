@@ -1,1 +1,3 @@
-class MathMatica {}
+class MathMatica {
+  sin(x) {}
+}
